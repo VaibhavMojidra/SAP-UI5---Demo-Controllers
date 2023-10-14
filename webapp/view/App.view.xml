@@ -1,0 +1,8 @@
+<mvc:View
+	xmlns="sap.m" 
+	xmlns:mvc="sap.ui.core.mvc"
+	controllerName="com.vaibhavmojidra.controllerdemo.controller.App">
+	
+	<Button text="Greet" press=".onGreet"/>
+
+</mvc:View>
